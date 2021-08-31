@@ -2,3 +2,4 @@
 .DS_store
 venv/*
 logs.log
+test
